@@ -2,7 +2,7 @@ name: Deploy Flicker to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [main, codespace-glorious-capybara-pj4vj5x6pr4xcr95]
   workflow_dispatch:
 
 permissions:
